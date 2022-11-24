@@ -1,0 +1,25 @@
+sage: floor(-3.56)
+-4
+sage: ceil(-3.56)
+-3
+sage: ln(100)
+2*log(10)
+sage: log(100)
+2*log(10)
+sage: log(100)
+2*log(10)
+sage: log(100,2.7182)
+2.00006020873427*log(10)
+sage: 2*log(10)/2.00006020873427*log(10)
+0.999969896539111*log(10)^2
+sage: log(64,2)
+6
+sage: pi.n(e)
+3.0
+sage: sin(pi/2)
+1
+sage: cot(pi/4)
+1
+sage: csc(pi/16)
+csc(1/16*pi)
+sage:
